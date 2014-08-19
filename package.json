@@ -15,18 +15,16 @@
   },
   "devDependencies": {
     "bagel-functions" : "https://github.com/goodtwin/bagel-functions/archive/3c4b85069978a83d567822e9c45faebadaf6a1ea.tar.gz",
-    "bagel-theme-prototype" : "https://github.com/goodtwin/bagel-theme-prototype/archive/0c59e232b8a49551b9decf6281c819618694d378.tar.gz",
     "bagel-layout": "https://github.com/goodtwin/bagel-layout/archive/769a17cee7a7a24ef8d16219f5a7efd83135f57d.tar.gz",
+    "bagel-theme-prototype" : "https://github.com/goodtwin/bagel-theme-prototype/archive/3f7d0f9484a379ff7e15bc418a5018743b6d488a.tar.gz",
     "grunt-shared-config": "https://github.com/goodtwin/grunt-shared-config/archive/1f0a6e12b365ad9bda3e411f2a2cb74683df1d2e.tar.gz",
     "assemble": "~0.4.41",
     "grunt": "~0.4.4",
     "grunt-cli": "~0.1.13",
+    "grunt-contrib-sass": "^0.7.3",
     "grunt-contrib-watch": "~0.5.3",
     "grunt-contrib-clean": "~0.5.0",
     "grunt-contrib-copy": "~0.4.1",
-    "grunt-contrib-cssmin": "~0.9.0",
-    "grunt-contrib-sass": "^0.7.3",
-    "grunt-myth": "~0.1.1",
     "load-grunt-tasks": "~0.4.0"
   }
 }
