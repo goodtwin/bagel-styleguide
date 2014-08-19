@@ -38,7 +38,8 @@ body#example {
 
 body > .content  {
   background: #FCFCFC;
-  margin-left: 20px; margin-right: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 h1,
@@ -419,7 +420,6 @@ body.guide .main.container > * {
 
 #example .dark.stripe {
   background-color: #333333;
-  background:;
   color: #FFFFFF;
 }
 #example .stripe .column .label {
