@@ -29,14 +29,16 @@ body {
 
 body#example {
   font-family: "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif/*rtl:"Droid Arabic Kufi", "Open Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif */;
-  background: #FCFCFC url(../images/bg.jpg) repeat;
+  background: #FCFCFC;
   margin: 0px;
   padding: 0px;
   color: #555555;
   min-width: 320px;
 }
+
 body > .content  {
-  background: #FCFCFC url(../images/bg.jpg) repeat;
+  background: #FCFCFC;
+  margin-left: 20px; margin-right: 20px;
 }
 
 h1,
@@ -267,7 +269,7 @@ body.guide .main.container > * {
   border-bottom: none;
 }
 #example .masthead:before {
-  background: #00B5AD url(/images/tile-bg.png) repeat fixed 0% 0%;
+  background: #00B5AD;
   position: absolute;
   z-index: 1;
   width: 500%;
@@ -417,7 +419,7 @@ body.guide .main.container > * {
 
 #example .dark.stripe {
   background-color: #333333;
-  background: url(/images/dark-bg.png) repeat;
+  background:;
   color: #FFFFFF;
 }
 #example .stripe .column .label {
